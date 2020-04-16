@@ -195,7 +195,7 @@ The following code shows a minimal example of this.
 ```
 ```text
 features = ["evcxr, line_series"] }
-'''
+```
 extern crate plotters;
 use plotters::prelude::*;
 
