@@ -192,10 +192,7 @@ The following code shows a minimal example of this.
 
 ```text
 :dep plotters = { git = "https://github.com/38/plotters", default_features = false,
-```
-```text
 features = ["evcxr, line_series"] }
-```
 extern crate plotters;
 use plotters::prelude::*;
 
